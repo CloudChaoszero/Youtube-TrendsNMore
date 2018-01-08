@@ -1,6 +1,6 @@
 # Trending Youtube Statistics: An Analysis
 
-![Resources/Images/youtube-gold-play-button.jpg]
+![Youtube Gold Play Button](Resources/Images/youtube-gold-play-button.jpg)
 
 ## 1.0 Introduction
 
