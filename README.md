@@ -23,6 +23,11 @@ The objective of this project is to determine either
 
 ## 2.0 Summary
 
+### 2.1 Data Cleaning
+
+### 2.2 Findings
+
+### 2.3 Conclusions
 
 ## 3.0 Table of Contents
 
