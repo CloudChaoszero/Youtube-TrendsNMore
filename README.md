@@ -26,13 +26,15 @@ The objective of this project is to determine either
 
 ## 3.0 Table of Contents
 
-1. [Data](Data)
+1. [Analysis](Analysis)
 
-2. [Data Inspection](DataInspection)
+3. [Data](Data)
 
-3. [Resources](Resources)
+4. [Data Inspection](DataInspection)
 
-4. [Read Me](README.md)
+5. [Resources](Resources)
+
+6. [Read Me](README.md)
 
 ## 4.0 Data Dictionary
 
@@ -73,3 +75,5 @@ or some unspecified error occurred during collection
 16. description
 
 17. Country
+
+18. category_name
