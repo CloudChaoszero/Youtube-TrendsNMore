@@ -5,21 +5,37 @@
 ## 1.0 Introduction
 
 1/8/18
-(Estimated Completion Date: 1/20/18])
+(Completion Date: 1/20/18])
 
 Welcome,
 
-This is an analysis on both Youtube statistics and other miscellaneous Youtube information. The Dataset was provided by Kaggle user Mitchell J, here https://www.kaggle.com/datasnaek/youtube-new Thank you Mitchell J.
+Starting off the year, I thought I should develop a project soley based on descriptive statistics and data wrangling performance. You can find the Data Wrangling in the Data Inspection folder, and analysis in the...Analysis Folder.
 
-The objective of this project is to determine either
+However, this still is an analysis on both Youtube statistics and other miscellaneous Youtube information. 
 
-1. The most popular Youtube video
+The Dataset was provided by Kaggle user Mitchell J, here https://www.kaggle.com/datasnaek/youtube-new Thank you Mitchell J.
 
-2. The most popular Youtuber
+The objective of this project is to determine
 
-3. Essential Statistics of Youtubers, and their most popular videos
+From the list of trending videos that occured from November 2017-January 2018,
 
-4. Other Exploratory analyses
+What are the top 10 trending
+
+1. Youtube videos
+
+2. Categories
+
+3. Youtube Channels
+
+based on user view counts
+
+Question # 2
+From the top videos, categories, and Youtube channels, what countries dominate those spaces?
+
+Question # 3
+Lastly, for these topics, what were the most disliked, liked, and ratio of likes?
+
+From this analysis, we can distinguish what types of topics trending during the winter, and some of their characteristics.
 
 ## 2.0 Summary
 
@@ -40,6 +56,11 @@ The objective of this project is to determine either
 5. [Resources](Resources)
 
 6. [Read Me](README.md)
+
+
+Within the Analysis Folder, you can find a HTML document containing my summary of my analysis. 
+
+Enjoy! 
 
 ## 4.0 Data Dictionary
 
@@ -82,3 +103,5 @@ or some unspecified error occurred during collection
 17. Country
 
 18. category_name
+
+Let me know if you have any questions on [Linkedin](https://www.linkedin.com/in/raulm8/)!
